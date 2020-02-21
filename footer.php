@@ -23,7 +23,7 @@
 				<a class="site-name" href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>,
 			<?php endif; ?>
 
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentynineteen' ) ); ?>"  class="imprint">Cours de veille
+			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentynineteen' ) ); ?>"  class="imprint">Cours de veille | http://localhost/2020-veille/wordpress
 				<?php
 				/* translators: %s: WordPress. */
 				// printf( __( 'Proudly powered by %s.', 'twentynineteen' ), 'WordPress' );
